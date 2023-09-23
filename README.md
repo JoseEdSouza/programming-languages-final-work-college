@@ -1,6 +1,6 @@
 # 📚 Programming Languages Major Final Work
 
-Welcome to my repository showcasing the final work I completed for my Programming Languages major. This repository includes three main components, each highlighting different aspects of programming languages and paradigms.
+Welcome to my repository showcasing the final work I completed for my Programming Languages discipline in college. This repository includes three main components, each highlighting different aspects of programming languages and paradigms.
 
 ## 1. [🐍 Python Functional Programming Problems](/Functional/)
 
